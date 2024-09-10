@@ -6,7 +6,7 @@ I'm currently working as a Machine Learning Engineer Intern at <a href="https://
 
 - 🔭 I’m currently working on <a href="https://www.tiket.com/">tiket.com</a>
 - 🌱 I’m currently learning about quantum NLP
-- 💬 Feel free to ask me about software development, data science, machine learning engineer
+- 💬 Feel free to ask me about software development, data science, or machine learning engineer
 - 📫 How to reach me: itsmichaeljonathan@gmail.com
   
 ### Github Statistic
