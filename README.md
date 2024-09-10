@@ -2,9 +2,9 @@
 
 An independent Software Engineer / Data Scientist / Machine Learning Engineer who loves to create and share projects about web, mobile, and machine learning technologies! I've enjoyed Python and make it the main language in creating a project.
 
-I'm currently working as a Machine Learning Engineer Intern at <a href="https://www.tiket.com/">tiket.com</a>, where I apply AI to various features of the platform.
+I'm currently a student at Institut Teknologi Bandung, majoring in Informatics Engineering.
 
-- 🔭 I’m currently working on <a href="https://www.tiket.com/">tiket.com</a>
+- 🔭 I’m currently a student at Institut Teknologi Bandung
 - 🌱 I’m currently learning about quantum NLP
 - 💬 Feel free to ask me about software development, data science, or machine learning engineering
 - 📫 How to reach me: itsmichaeljonathan@gmail.com
